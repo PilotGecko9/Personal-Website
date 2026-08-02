@@ -10,15 +10,15 @@
     }
     .title{
         height: 50px;
-        width: 200px;
+        width: 250px;
         background-color: rgb(61, 7, 66);
         text-align: left;
     }
 
 
     #text{
-        font-size: 16px;
-        color: rgb(236, 78, 228);
+        font-size: 32px;
+        color: rgb(78, 212, 236);
         text-align: center;
     }
 
