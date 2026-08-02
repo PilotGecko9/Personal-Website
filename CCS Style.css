@@ -1,0 +1,32 @@
+.panel{       
+        height: 100px;
+        width: 150px;
+        background-color: rgb(233, 138, 245);
+    }
+    .intro{
+        height: 50px;
+        width: 100px;
+        background-color: rgb(148,116,230)
+    }
+    .title{
+        height: 50px;
+        width: 200px;
+        background-color: rgb(61, 7, 66);
+        text-align: left;
+    }
+
+
+    #text{
+        font-size: 16px;
+        color: rgb(236, 78, 228);
+        text-align: center;
+    }
+
+
+    body{
+        background-color: rgb(61, 46, 65);
+    }
+    h1{
+        color: rgb(78, 236, 118);
+        text-align: center;
+    }
