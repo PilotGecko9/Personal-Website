@@ -5,3 +5,4 @@ The main few troubles i had want with understanding HTML it came with hack time,
 <img width="1600" height="805" alt="lowk ok" src="https://github.com/user-attachments/assets/b78b8289-5d86-4a63-8c05-cf6f0b366f6a" />
 <img width="1600" height="805" alt="thingy" src="https://github.com/user-attachments/assets/39338b53-8423-47bd-bd21-02a0e7295bd1" />
 
+then i just started drawing stuff and made <img width="1600" height="805" alt="Yippie" src="https://github.com/user-attachments/assets/46ffea1a-c717-4864-8d21-24280950c60b" /> i might make it a tad darker bc i dont like light mode
