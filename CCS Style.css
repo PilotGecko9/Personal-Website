@@ -11,7 +11,7 @@
     .title{
         height: 50px;
         width: 250px;
-        background-color: rgb(61, 7, 66);
+        background-color: rgb(0, 0, 0);
         text-align: left;
     }
 
@@ -24,9 +24,13 @@
 
 
     body{
-        background-color: rgb(61, 46, 65);
+        background-color: rgb(181, 163, 185);
+        background-image: url("Images/Yippie.png");
     }
     h1{
         color: rgb(78, 236, 118);
         text-align: center;
+    }
+    p{
+        color: rgb(255, 255, 255);
     }
